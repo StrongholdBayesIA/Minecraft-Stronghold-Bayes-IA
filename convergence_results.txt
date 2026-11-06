@@ -1,0 +1,5 @@
+Valid ring-1 candidates: 77220
+
+n =       10,000 | sum = 1.00000000 | non-zero =   8976 / 77220 | max_prob = 0.00041537
+n =      100,000 | sum = 1.00000000 | non-zero =  53943 / 77220 | max_prob = 0.00009346 | max_diff_vs_prev = 0.00037383
+n =    1,000,000 | sum = 1.00000000 | non-zero =  77205 / 77220 | max_prob = 0.00003533 | max_diff_vs_prev = 0.00007684

@@ -1,0 +1,90 @@
+[
+  {
+    "sigma": "0 (perfect)",
+    "label": "0 (perfect)",
+    "top1_accuracy": 99.22199170124482,
+    "top3_accuracy": 99.9119608511629,
+    "mean_posterior": 98.05267422258872,
+    "mean_rank": 1.0129584895932944,
+    "n_valid": 962072,
+    "n_trials": 1000000,
+    "time_s": 10.073708534240723
+  },
+  {
+    "sigma": "F3 only",
+    "label": "F3 only",
+    "top1_accuracy": 44.06951212035244,
+    "top3_accuracy": 90.92098467536867,
+    "mean_posterior": 38.20053571760311,
+    "mean_rank": 2.0665099599192356,
+    "n_valid": 962307,
+    "n_trials": 1000000,
+    "time_s": 9.852308750152588
+  },
+  {
+    "sigma": 0.01,
+    "label": "0.01",
+    "top1_accuracy": 19.324282343504702,
+    "top3_accuracy": 48.805317136169016,
+    "mean_posterior": 12.884504169711727,
+    "mean_rank": 4.6112025999690385,
+    "n_valid": 962473,
+    "n_trials": 1000000,
+    "time_s": 9.6725914478302
+  },
+  {
+    "sigma": 0.05,
+    "label": "0.05",
+    "top1_accuracy": 4.847694198077001,
+    "top3_accuracy": 13.623441601135061,
+    "mean_posterior": 2.7398779011382794,
+    "mean_rank": 18.381411078692974,
+    "n_valid": 962767,
+    "n_trials": 1000000,
+    "time_s": 9.723361253738403
+  },
+  {
+    "sigma": 0.1,
+    "label": "0.1",
+    "top1_accuracy": 2.55947463852824,
+    "top3_accuracy": 7.28700052473802,
+    "mean_posterior": 1.378464497492469,
+    "mean_rank": 35.85353782529861,
+    "n_valid": 962385,
+    "n_trials": 1000000,
+    "time_s": 9.649282693862915
+  },
+  {
+    "sigma": 0.25,
+    "label": "0.25",
+    "top1_accuracy": 1.0717647083266675,
+    "top3_accuracy": 3.1112029901788665,
+    "mean_posterior": 0.5540449531229318,
+    "mean_rank": 88.36178629529056,
+    "n_valid": 962618,
+    "n_trials": 1000000,
+    "time_s": 9.661428928375244
+  },
+  {
+    "sigma": 0.5,
+    "label": "0.5",
+    "top1_accuracy": 0.5478953876206606,
+    "top3_accuracy": 1.6103323947174282,
+    "mean_posterior": 0.27725300190442054,
+    "mean_rank": 176.17240988767782,
+    "n_valid": 962410,
+    "n_trials": 1000000,
+    "time_s": 9.670470714569092
+  },
+  {
+    "sigma": 1.0,
+    "label": "1.0",
+    "top1_accuracy": 0.2750087011630987,
+    "top3_accuracy": 0.8166106502236328,
+    "mean_posterior": 0.1390242167532124,
+    "mean_rank": 351.78497997433806,
+    "n_valid": 962515,
+    "n_trials": 1000000,
+    "time_s": 9.675689220428467
+  }
+]
